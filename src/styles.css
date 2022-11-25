@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.accordian-button::after {
+  filter: invert(1);
+}
